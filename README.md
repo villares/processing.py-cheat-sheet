@@ -1,18 +1,12 @@
-# Processing.py Cheat Sheet
+# referência rápida (colinha) para iniciantes
 
-*A Processing Python Mode / Processing.py cheat sheet for beginners*
+# Processing + Python
 
-**[Download Python Mode / Processing.py cheatsheet (p.py_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)**
+Tradução para o português e adaptação do material criado por @tabreturn:
+https://tabreturn/processing.py-cheat-sheet
 
-**[Download py5 cheatsheet (py5_cc.pdf)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf)**
-
-*page 1*
-[![](img/page_1.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)  
-*page 2*
-[![](img/page_2.png)](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/p.py_cc.pdf)
-
-Designed with [Scribus](https://www.scribus.net/) and [Inkscape](https://inkscape.org/)  
-Fonts: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts.google.com/specimen/Enriqueta), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+Diagramada com [Scribus](https://www.scribus.net/) e [Inkscape](https://inkscape.org/)  
+Fontes: [DejaVu Sans](https://dejavu-fonts.github.io/), [Enriqueta](https://fonts.google.com/specimen/Enriqueta), [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
 
 ## More Python Mode Resources
 
@@ -51,4 +45,3 @@ A plain-old, Processing-less beginner Python cheat sheet:
 - [ ] vectors
 - [ ] interaction
 - [x] constants
-
