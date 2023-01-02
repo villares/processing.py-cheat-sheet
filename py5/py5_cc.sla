@@ -1550,7 +1550,7 @@
                 <DefaultStyle/>
                 <ITEXT CH="referência completa do py5 em:"/>
                 <breakline/>
-                <ITEXT CH="https://py5.ixora.io/reference"/>
+                <ITEXT CH="https://py5coding.org/reference"/>
                 <trail PARENT="Body Copy" ALIGN="2" LINESP="11"/>
             </StoryText>
         </PAGEOBJECT>
